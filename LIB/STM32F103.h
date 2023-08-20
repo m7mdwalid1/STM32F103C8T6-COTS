@@ -118,9 +118,7 @@ typedef struct
 
 #define USART3 ((USART_REG_t *)USART3_BASE_ADDRESS)
 
-#define UART4 ((USART_REG_t *)UART4_BASE_ADDRESS)
 
-#define UART5 ((USART_REG_t *)UART5_BASE_ADDRESS)
 
 
 

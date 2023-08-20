@@ -22,9 +22,6 @@ typedef enum
     UART_1 = 0, // UART 1
     UART_2,     // UART 2
     UART_3,     // UART 3
-    UART_4,     // UART 4
-    UART_5,     // UART 5
-    UART_6,     // UART 6
 } UART_ID_t;
 
 

@@ -16,7 +16,7 @@
  *******************************************************************************/
 #ifndef UART_INCLUDE_UART_PRIVATE_H_
 #define UART_INCLUDE_UART_PRIVATE_H_
-#define UARTNUMBER 5
+#define UARTNUMBER 3
 #define Clock_Freq 16000000UL
 #define FlagsNumber 10
 #define OneBitMasking 0b1
